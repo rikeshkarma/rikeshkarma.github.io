@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rikeshkarma.github.io
+Token: a3fff792c11e5f346abcb5bb008201341c2e9d3fc4a35a44aa46e15c2f9968dd
